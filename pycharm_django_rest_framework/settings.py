@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'pycharm_django_rest_framework.quickstart',
     'rest_framework',
 ]
 
